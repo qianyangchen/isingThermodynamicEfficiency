@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.py
+src/ising2D/__init__.py
+src/ising2D/core.py
+src/ising2D.egg-info/PKG-INFO
+src/ising2D.egg-info/SOURCES.txt
+src/ising2D.egg-info/dependency_links.txt
+src/ising2D.egg-info/requires.txt
+src/ising2D.egg-info/top_level.txt
