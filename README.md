@@ -24,3 +24,21 @@ To use the example analysis notebook:
 ```
 pip install -e .[analysis]
 ```
+
+## Citing
+If you use `ising2D` in your research, please cite:
+
+Qianyang Chen, Nihat Ay and Mikhail Prokopenko, *Generalizing thermodynamic efficiency of interactions: inferential, information-geometric and computational perspectives*, arXiv:2509.10102 [nlin.AO] (2025).  
+Available at: [https://arxiv.org/abs/2509.10102](https://arxiv.org/abs/2509.10102)
+
+### BibTeX
+```bibtex
+@article{chen2025generalize,
+  author  = {Chen, Qianyang and Ay, Nihat and Prokopenko, Mikhail},
+  title   = {Generalizing thermodynamic efficiency of interactions: inferential, information-geometric and computational perspectives},
+  journal = {arXiv preprint arXiv:2509.10102},
+  year    = {2025},
+  eprint  = {2509.10102},
+  archivePrefix = {arXiv},
+  primaryClass = {nlin.AO}
+}
